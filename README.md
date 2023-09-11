@@ -4,7 +4,7 @@
 
 ## Introductions
 
-Hello, my name is Omar Nadeem and alongside Pioter Cetner and Maxim Karsav, we are currently undergoing the recreation of one of Tom Stanton's VTOL drones. 
+Hello, my name is Omar Nadeem and alongside Pioter Cetner and Maxim Karsav, we are currently undergoing the recreation of one of Tom Stanton's VTOL drones. This is our capstone project for our 2 years at Monroe Community College.
 
 ## File Structure
 Folders are categorized in sub-assemblies then versions of the full assembly are used with the naming convention of vXXX with the X being replaced with a 0 or the next letter in the alphabet. 
