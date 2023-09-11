@@ -1,5 +1,5 @@
 # MCC_VTOL_PROTOTYPE
-
+![alt text](OneDrive_1_9-11-2023/Drone(2).jpg)
 ![alt text](OneDrive_1_9-11-2023/Drone.jpg)
 
 ## Introductions
